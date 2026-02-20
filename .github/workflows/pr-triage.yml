@@ -37,7 +37,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ADK_TRIAGE_AGENT }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GOOGLE_GENAI_USE_VERTEXAI: 0
-          OWNER: 'google'
+          OWNER: 'johnresearc'
           REPO: 'adk-python'
           PULL_REQUEST_NUMBER: ${{ github.event.pull_request.number || github.event.inputs.pr_number }}
           INTERACTIVE: ${{ vars.PR_TRIAGE_INTERACTIVE }}
