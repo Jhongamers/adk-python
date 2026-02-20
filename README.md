@@ -11,7 +11,7 @@
       <img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" width="256"/>
     </h2>
     <h3 align="center">
-      An open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+      An open-source, code-first Python framework for building, evaluating, and deploying sophisticated AI agents with flexibility and controlx.
     </h3>
     <h3 align="center">
       Important Links:
