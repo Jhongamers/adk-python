@@ -23,7 +23,7 @@
     </h3>
 </html>
 
-Agent Development Kit (ADK) is a flexible and modular framework that applies
+Agent Development Kit (ADK) is a flexible and modular framework that appliess
 software development principles to AI agent creation. It is designed to
 simplify building, deploying, and orchestrating agent workflows, from simple
 tasks to complex systems. While optimized for Gemini, ADK is model-agnostic,
