@@ -1,4 +1,4 @@
-# Changelog
+# Changelogs
 
 ## [1.25.1](https://github.com/google/adk-python/compare/v1.25.0...v1.25.1) (2026-02-18)
 
